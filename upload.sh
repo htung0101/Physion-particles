@@ -1,0 +1,1 @@
+rsync -vaP -e "ssh" --exclude=data/ --exclude=dump_* --exclude=eval_*/ --exclude vispy * hsiaoyut@node$1-ccncluster.stanford.edu:~/2021/DPI-Net-p/ #dev_head_compute0#

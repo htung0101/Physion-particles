@@ -1,0 +1,12 @@
+__pycache__
+log/
+data*/
+dump/
+eval/
+bin/
+.idea
+*.swp
+*.swo
+*.png
+*.hdf5
+*.h5
