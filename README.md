@@ -1,6 +1,6 @@
 # Physion: Evaluating Physical Prediction from Vision in Humans and Machines [[paper]](https://arxiv.org/pdf/2106.08261.pdf)
 
-Daniel M. Bear, Elias Wang, Damian Mrowca, Felix J. Binder, Hsiau-Yu Fish Tung, R.T. Pramod, Cameron Holdaway, Sirui Tao, Kevin Smith, Fan-Yun Sun, Li Fei-Fei, Nancy Kanwisher, Joshua B. Tenenbaum, Daniel L.K. Yamins, Judith E. Fan
+Daniel M. Bear, Elias Wang, Damian Mrowca, Felix J. Binder, Hsiao-Yu Fish Tung, R.T. Pramod, Cameron Holdaway, Sirui Tao, Kevin Smith, Fan-Yun Sun, Li Fei-Fei, Nancy Kanwisher, Joshua B. Tenenbaum, Daniel L.K. Yamins, Judith E. Fan
 
 This is the official implementation of particle-based models (GNS and DPI-Net) on the Physion dataset.
 The code is built based on the original implementation of DPI-Net (https://github.com/YunzhuLi/DPI-Net).
@@ -183,7 +183,7 @@ If you find this codebase useful in your research, please consider citing:
                Elias Wang and
                Damian Mrowca and
                Felix J. Binder and
-               Hsiau{-}Yu Fish Tung and
+               Hsiao{-}Yu Fish Tung and
                R. T. Pramod and
                Cameron Holdaway and
                Sirui Tao and
